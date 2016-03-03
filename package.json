@@ -1,0 +1,16 @@
+{
+  "name": "http-event-lambda",
+  "version": "1.0.0",
+  "description": "Recieves http requests and converts them to SNS events.",
+  "main": "httpEventLambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.2.40",
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^0.12.0"
+  }
+}

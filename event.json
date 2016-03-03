@@ -1,0 +1,5 @@
+{
+  "eventType": "TestEvent",
+  "eventSubject": "Grunt Test Event",
+  "eventBody": "Grunt Test Event Body"
+}
