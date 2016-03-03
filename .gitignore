@@ -1,3 +1,5 @@
+#OSX metadata
+.DS_Store
 # Logs
 logs
 *.log
@@ -35,3 +37,6 @@ jspm_packages
 
 #Files built by grunt-aws-lambda
 dist
+
+#Config file with sensitive data
+config.js
